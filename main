@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DB LEGENDS</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+ <div class="container">
+        <div class="centered-div">
+    <h1>Dragon Ball Legends</h1>
+    <p>Dragon Ball Legends is a free-to-play mobile game based on the Dragon Ball anime franchise.
+    <br>It was developed by Dimps and published by Bandai Namco Entertainment in 2018</p>
+    <div class="gap"></div>
+    <h2>STRONGEST CHARACTER</h2>
+    <p>Let's talk about the strongest characters in the game.(In order)</p>
+	<ol>
+    <li>ULTRA SUPER SAYIAN BLUE GOGETA</li>
+    <li>ULTRA SUPER SAYIAN ROSE BLACK GOKU</li>
+    <li>LL KID GOKU (DB)</li>
+</ol>
+
+</body>
+</html>
